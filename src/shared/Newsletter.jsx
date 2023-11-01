@@ -16,9 +16,7 @@ const NewsLetter = () => {
                         <input type="email" placeholder='Enter your email' />
                         <button className="btn newsletter__btn">Subcribe</button>
                      </div>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Obcaecati adipisici sunt in, provident facere ipsam?
-                     </p>
+                     
                   </div>
                </Col>
                <Col lg='6'>
